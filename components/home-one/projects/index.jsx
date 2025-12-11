@@ -3,8 +3,6 @@ import Image from "next/image";
 import { useState, useEffect, useRef } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Autoplay } from "swiper/modules";
-import Project1Img from "../../../public/images/v1/project1.png";
-import P1Img from "../../../public/images/portfolio/p_1.png";
 import IlhaVeraCruzImg from "../../../public/images/Livros/Ilha-de-Vera-Cruz.png";
 import MemoriasImpressasImg from "../../../public/images/Livros/Memórias-Impressas.png";
 import UmaVidaCheiaDeSomImg from "../../../public/images/Livros/uma-vida-cheia-de-som.png";
@@ -15,13 +13,6 @@ import "swiper/css";
 import "swiper/css/navigation";
 
 const projectsData = [
-	{
-		id: "uma-escola-sonhada",
-		title: "Uma Escola Sonhada",
-		description: "Este livro foi baseado na tese de doutorado de Lucilia Bechara Sanchez defendida na FEUSP em 1996. Uma obra dedicada aos profissionais da educação e aos pais dos alunos, que narra a história e as transformações da Escola Vera Cruz ao longo das décadas, desde os anos 1960 até os dias atuais.",
-		additionalInfo: "O livro apresenta uma análise institucional profunda, abordando temas como gestão participativa, cultura organizacional, aprendizagem institucional e os desafios enfrentados pela educação brasileira. Principais tópicos: Formação da escola nos anos 1960, Transformações dos anos 1970, Redemocratização da sociedade brasileira (década de 80), Década de noventa e anos 2000, Cultura organizacional e ação comunicativa, Modo de fazer uma escola e sua metodologia, Aprendizagem institucional e avaliação.",
-		img: P1Img,
-	},
 	{
 		id: "ilha-de-vera-cruz",
 		title: "Ilha de Vera Cruz",

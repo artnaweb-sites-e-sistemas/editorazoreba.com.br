@@ -7057,68 +7057,6 @@ img.aximo-video-circle {
 	}
 }
 
-.aximo-v4-shape1 {
-	position: absolute;
-	bottom: 70px;
-	right: 0;
-	animation: float-left-right 6s ease-in-out infinite;
-}
-@media (max-width: 991px) {
-	.aximo-v4-shape1 {
-		display: none;
-	}
-}
-@media (max-width: 1669px) {
-	.aximo-v4-shape1 img {
-		width: 200px;
-	}
-}
-
-.aximo-thumb-shape4 {
-	position: absolute;
-	top: -90px;
-	left: -80px;
-	animation: float-left-right 6s ease-in-out infinite;
-}
-@media (max-width: 767px) {
-	.aximo-thumb-shape4 {
-		display: none;
-	}
-}
-
-.aximo-v4-shape2 {
-	position: absolute;
-	top: 8%;
-	right: 8%;
-	animation: float-top-bottom 6s ease-in-out infinite;
-}
-@media (max-width: 991px) {
-	.aximo-v4-shape2 {
-		display: none;
-	}
-}
-@media (max-width: 1500px) {
-	.aximo-v4-shape2 img {
-		width: 80px;
-	}
-}
-
-.aximo-v4-shape3 {
-	position: absolute;
-	top: -30px;
-	left: 105px;
-	animation: float-left-right 6s ease-in-out infinite;
-}
-@media (max-width: 991px) {
-	.aximo-v4-shape3 {
-		display: none;
-	}
-}
-@media (max-width: 1669px) {
-	.aximo-v4-shape3 img {
-		width: 115px;
-	}
-}
 
 .aximo-pricing-shape {
 	position: absolute;
@@ -7419,7 +7357,6 @@ img.aximo-video-circle {
 	position: absolute;
 	background-size: cover;
 	background-color: transparent;
-	background-image: url(../images/v4/arrow.png);
 }
 
 .aximo-project-page .aximo-project-thumb {
