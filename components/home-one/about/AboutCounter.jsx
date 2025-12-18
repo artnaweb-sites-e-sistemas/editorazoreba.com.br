@@ -6,7 +6,7 @@ function AboutCounter() {
 			<div className="aximo-counter-data">
 				<h2 className="aximo-counter-number">
 					<span className="aximo-counter">
-						<CountUp end={1} duration={3} redraw={true} enableScrollSpy />
+						<CountUp end={3} duration={3} redraw={true} enableScrollSpy />
 					</span>
 				</h2>
 				<p>Livro publicado</p>

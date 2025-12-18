@@ -20,9 +20,9 @@ function CallToAction() {
 								<h3>Entre em contato conosco:</h3>
 								<ul>
 									<li>
-										<a href="tel:+5511999999999">
+										<a href="tel:+5511958531021">
 											<i className="icon-phone"></i>
-											+55 (11) 99999-9999
+											+55 11 95853-1021
 										</a>
 									</li>
 									<li>

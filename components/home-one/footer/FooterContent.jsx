@@ -23,7 +23,7 @@ function FooterContent() {
 					<ul>
 						<li>Ligue para nós:</li>
 						<li>
-							<a href="tel:+5511999999999">+55 (11) 99999-9999</a>
+							<a href="tel:+5511958531021">+55 11 95853-1021</a>
 						</li>
 					</ul>
 				</div>
